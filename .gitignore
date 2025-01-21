@@ -1,0 +1,18 @@
+# macOS Files
+.DS_Store
+
+# Xcode
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata
+*.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# Derived Data
+DerivedData/
+
+# Build Products
+build/
+
+# Swift Package Manager
+.build/
+*.resolved
